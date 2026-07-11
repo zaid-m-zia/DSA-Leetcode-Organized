@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0031-next-permutation](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0031-next-permutation) |
 | [0217-contains-duplicate](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0217-contains-duplicate) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,8 +15,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0217-contains-duplicate) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0217-contains-duplicate) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
