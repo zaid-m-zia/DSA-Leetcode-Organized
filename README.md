@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3005-count-elements-with-maximum-frequency) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
