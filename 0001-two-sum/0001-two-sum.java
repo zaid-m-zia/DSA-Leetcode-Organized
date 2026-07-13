@@ -1,14 +1,15 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-         HashMap <Integer, Integer> map = new HashMap<>();
-         for(int i =0;i<nums.length;i++){
-            int compliment = target - nums[i];
-            if(map.containsKey(compliment)){
-                return new int []{map.get(compliment),i};
+        for(int i = 0;i<nums.length;i++){
+            for(int j = i+1;j<nums.length;j++){//MAIN-> loop-2 is from i+1 index
+                if(nums[i]+nums[j]==target){
+                    return new int[]{i,j}; // how to return 2 things using array
+                }
+                else{
+                     continue; //to keep the loop running aagey if not found
+                }
             }
-            map.put(nums[i],i);
-
-         }
-         return new int []{}; // this line is not reachable
+        }
+        return new int[]{};// or return null; (and )
     }
 }
