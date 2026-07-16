@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0268-missing-number) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0268-missing-number) |
 ## Bit Manipulation
