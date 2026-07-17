@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0268-missing-number) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Recursion
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3847-find-the-score-difference-in-a-game](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3847-find-the-score-difference-in-a-game) |
+## String
+|  |
+| ------- |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+## Greedy
+|  |
+| ------- |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 <!---LeetCode Topics End-->
