@@ -10,15 +10,7 @@ class Solution {
             nums1[m+i]=nums2[i];
         }
         //now our arrays have been merged
-        for(int pass = 0 ; pass<nums1.length-1 ; pass++){
-           for(int i = 0 ; i<nums1.length-1 ; i++){
-                if(nums1[i]>nums1[i+1]){
-                    int temp = nums1[i];
-                    nums1[i] = nums1[i+1];
-                    nums1[i+1] = temp;
-                }
-            } 
-        }
+        Arrays.sort(nums1);
         
 
 
