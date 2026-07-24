@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0268-missing-number) |
+| [1025-divisor-game](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/1025-divisor-game) |
 ## Linked List
 |  |
 | ------- |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
