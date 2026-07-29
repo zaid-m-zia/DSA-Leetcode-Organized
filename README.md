@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0724-find-pivot-index) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -119,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
