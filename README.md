@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0268-missing-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/1025-divisor-game) |
