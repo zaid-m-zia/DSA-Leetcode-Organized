@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0560-subarray-sum-equals-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0383-ransom-note) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0383-ransom-note) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Greedy
 |  |
