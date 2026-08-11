@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0088-merge-sorted-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0283-move-zeroes) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0881-boats-to-save-people) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
