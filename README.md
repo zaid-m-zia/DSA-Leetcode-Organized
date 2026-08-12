@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0031-next-permutation) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0031-next-permutation) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0881-boats-to-save-people) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
