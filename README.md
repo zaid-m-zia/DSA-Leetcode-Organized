@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/0042-trapping-rain-water) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/zaid-m-zia/DSA-Leetcode-Organized/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
